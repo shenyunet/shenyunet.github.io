@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.lcarus.me</id>
     <title>神域</title>
-    <updated>2021-08-01T06:17:05.440Z</updated>
+    <updated>2021-08-01T06:33:01.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.lcarus.me"/>
     <link rel="self" href="https://blog.lcarus.me/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.lcarus.me/images/avatar.png</logo>
     <icon>https://blog.lcarus.me/favicon.ico</icon>
     <rights>All rights reserved 2021, 神域</rights>
+    <entry>
+        <title type="html"><![CDATA[BBR 四合一加速脚本]]></title>
+        <id>https://blog.lcarus.me/post/googlebbr/</id>
+        <link href="https://blog.lcarus.me/post/googlebbr/">
+        </link>
+        <updated>2021-08-01T06:25:43.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>环境要求</strong>:</p>
+<ul>
+<li>Centos6 + /Ubuntu 14+ /debian 8+</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>环境要求</strong>:</p>
+<ul>
+<li>Centos6 + /Ubuntu 14+ /debian 8+</li>
+</ul>
+<!-- more -->
+<p><strong>脚本:</strong><br>
+<code>wget -N --no-check-certificate &quot;https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh&quot; chmod +x tcp.sh ./tcp.sh</code></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blog.lcarus.me/post/hello-gridea/</id>
